@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # HELLO-MICROVERSE
 
 > Hello Microverse is a project built using only HTML and CSS.
