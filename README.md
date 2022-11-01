@@ -21,12 +21,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Visit And Open Files
 Visit Repo
-[Visit Repo](https://github.com/TumiRantsane/Hello-Microverse-Project)
+[Visit Repo](https://github.com/TumiRantsane/Hello-Microverse-Project
+
+# Hello Microverse
+
+> Microverse day 2 Project.
 
 
 ## Authors
-
-👤 **Itumeleng Rantsane**
+👤 Itumeleng Rantsane
 
 - GitHub: [@githubhandle](https://github.com/TumiRantsane)
 - Twitter: [@twitterhandle](https://twitter.com/irantsane)
@@ -37,14 +40,15 @@ Visit Repo
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/TumiRantsane/Hello-Microverse-Project/issues).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
 - Inspiration: Microverse
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
